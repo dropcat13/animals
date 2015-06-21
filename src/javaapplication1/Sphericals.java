@@ -35,6 +35,7 @@ public class Sphericals {
         System.out.println("The colour is " + firstRacquet.colour + ".");
         System.out.println("The bounciness is " + firstRacquet.bounciness + "%.");
         System.out.println("The mass is " + firstRacquet.mass + "g.");
+        
     }
     
     private static class Ball {

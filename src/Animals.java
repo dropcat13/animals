@@ -44,3 +44,4 @@ class Lion extends feline {
     String makeNoise = "roars";
     String eat = "at night";
 }}}
+
